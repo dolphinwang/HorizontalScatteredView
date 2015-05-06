@@ -2,7 +2,7 @@ HorizontalScatteredView
 ============
 ### A view which can show cell scatterd in horizontal line after line.
 
-![Opps! Screen shot has missed](https://github.com/dolphinwang/HorizontalScatteredView/raw/master/Screenshot.png)
+![Opps! Screen shot has missed](https://github.com/dolphinwang/HorizontalScatteredView/raw/master/ScreenShot.png)
 
 How to use
 --------------------------------------------------
