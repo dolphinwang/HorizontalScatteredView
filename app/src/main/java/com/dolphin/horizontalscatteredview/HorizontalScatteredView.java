@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListAdapter;
 
-import com.mogujie.widget.R;
+import com.dolphin.horizontalscatteredview.R;
 
 
 public class HorizontalScatteredLayout extends AdapterView<ListAdapter> {
